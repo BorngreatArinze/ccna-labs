@@ -1,0 +1,16 @@
+# ccna-labs
+
+## Description
+This lab demonstrates:
+- OSPF configuration
+- VLAN setup
+- Inter-VLAN routing
+- DHCP configuration
+- Router on a stick config
+- Remote access (Telnet)
+
+## Devices Used
+- 7 Routers
+- 4 Switches
+- 8 PCs
+
